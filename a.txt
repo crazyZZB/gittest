@@ -1,5 +1,2 @@
 version 1.0.0
-<<<<<<< HEAD
 master modifyed
-=======
->>>>>>> test a
